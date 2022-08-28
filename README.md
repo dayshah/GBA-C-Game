@@ -1,3 +1,3 @@
 # GBA-C-Game
 
-Da Game
+The DaGame.gba file is playable on a Game Boy Advanced.
